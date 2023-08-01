@@ -1,0 +1,13 @@
+server:
+  port: 3000
+
+# spring
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://minseokgo:111122@food-share-project.crztw7o.mongodb.net/food?retryWrites=true&w=majority
+
+jwt:
+  issuer: rhalstjr1999@naver.com
+  secretKey: rhalstjrrhalstjrrhalstjrrhalstjr
+  tokenPrefix: Bearer 
