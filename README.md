@@ -1,5 +1,6 @@
-# ERD
+해당 리포지토리는 23년 3월부터 6월까지 용기나눔의 서버를 개발한 리포지토리입니다.
 
-![yongki-nanum](https://github.com/yongki-nanum-food-share-platform/backend/assets/96585636/05abe6fa-ab34-4dcc-a07e-cbef1f8a6882)
+<br>
+<br>
 
 
